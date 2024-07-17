@@ -1,3 +1,3 @@
 # hello-finance
 
-finance calculator
+선납 이연 계산기
